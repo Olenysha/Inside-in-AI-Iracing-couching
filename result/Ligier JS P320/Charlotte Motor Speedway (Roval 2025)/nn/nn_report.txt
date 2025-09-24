@@ -1,0 +1,5 @@
+Neural network training done for Ligier JS P320 — Charlotte Motor Speedway (Roval 2025)
+Validation drivers: Mohammed Zourob, Abby Evans, Oscar Vaucelle Kerboul, Griffin Peebles, neel vadgama, Aleksey Osinsky, Loukas Afxentiou, Bailey Howard, Miles Kelly, Sean Vale, jesse decker, Hugo Da Costa, Aymerick Schuller, Hunter Palmer, Daniel Shorley, Bennett Büscher, Santiago Fressineau, Mytch Beveridge, Bobby Gabriel, Rui Costa, James Peacock, James Wiley, Awuitoh Fabrice, Kevin Adrian, Eric Nickens, Steve Roessel, Malte Tredup, Daniels Baiks, Diogo Sá, Ruben Reyter, Zack Niven, Ethan Szewczyk
+
+Comparison (lower MAE is better):
+ - NN-lstm: MAE=1.1472 sec

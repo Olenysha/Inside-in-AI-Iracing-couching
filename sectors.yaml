@@ -1,0 +1,29 @@
+# Сектора для треков. Проценты даны в долях от длины круга (LapDistPct в [0,1]).
+# Можно править без изменений основного кода. Ключи — "официальные" названия трека.
+# Приблизительные границы допустимы: их можно уточнять под ваши данные.
+
+tracks:
+  Autodromo Nazionale Monza (Grand Prix):
+    - [ "T1-T2 (Rettifilo)", 0.00, 0.18 ]
+    - [ "Curva Grande",      0.18, 0.30 ]
+    - [ "Var. della Roggia", 0.30, 0.39 ]
+    - [ "Lesmo 1-2",         0.39, 0.56 ]
+    - [ "Serraglio",         0.56, 0.67 ]
+    - [ "Ascari",            0.67, 0.83 ]
+    - [ "Parabolica",        0.83, 1.00 ]
+
+  Charlotte Motor Speedway (Roval 2025):
+    # Границы ориентировочные — подгоняйте по LapDistPct под свою разметку.
+    - [ "Frontstretch Chicane", 0.00, 0.08 ]
+    - [ "Infield Entry/Horseshoe", 0.08, 0.22 ]
+    - [ "Infield Switchbacks", 0.22, 0.38 ]
+    - [ "NASCAR T1–T2 (Oval)", 0.38, 0.56 ]
+    - [ "Backstretch Chicane", 0.56, 0.70 ]
+    - [ "NASCAR T3–T4 (Oval)", 0.70, 0.88 ]
+    - [ "Frontstretch Chicane Exit", 0.88, 1.00 ]
+
+# Фолбэк по умолчанию на любые треки (равные 3 сектора):
+default:
+  - [ "S1", 0.0, 0.3334 ]
+  - [ "S2", 0.3334, 0.6667 ]
+  - [ "S3", 0.6667, 1.0 ]

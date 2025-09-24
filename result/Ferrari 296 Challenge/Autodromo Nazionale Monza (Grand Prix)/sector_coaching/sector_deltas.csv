@@ -1,0 +1,190 @@
+driver,sector,delta_time_sec,delta_brake_m,delta_throttle_m,delta_min_speed_kph
+Alessio Carrino,T1-T2 (Rettifilo),0.4106,1.3459,3.2593,-0.7802
+Alessio Carrino,Curva Grande,0.0701,,11.7378,-0.0379
+Alessio Carrino,Var. della Roggia,0.4018,5.0913,20.6886,-0.5318
+Alessio Carrino,Lesmo 1-2,0.3194,50.0815,33.9337,-0.3126
+Alessio Carrino,Serraglio,0.1963,73.1776,,-1.3423
+Alessio Carrino,Ascari,0.1620,,55.8442,-1.4371
+Alessio Carrino,Parabolica,0.1788,119.1869,52.4987,-0.9694
+Andrew Kramer,T1-T2 (Rettifilo),0.5263,-255.9799,-253.7758,-2.2370
+Andrew Kramer,Curva Grande,0.0739,,-335.2070,-0.5432
+Andrew Kramer,Var. della Roggia,0.0945,-249.8174,-231.3386,-0.5720
+Andrew Kramer,Lesmo 1-2,0.1405,-271.5811,17.2083,-1.0676
+Andrew Kramer,Serraglio,0.0320,-265.8352,,-0.3685
+Andrew Kramer,Ascari,0.2861,,-249.7464,-4.1153
+Andrew Kramer,Parabolica,0.2926,-257.3291,-257.0849,-0.3485
+Attila Kozo,T1-T2 (Rettifilo),0.1404,16.2509,7.2034,1.3703
+Attila Kozo,Curva Grande,0.0609,,4.7500,-0.4060
+Attila Kozo,Var. della Roggia,0.1623,28.2694,4.8190,-1.4742
+Attila Kozo,Lesmo 1-2,-0.0838,15.1668,320.5569,-0.4207
+Attila Kozo,Serraglio,0.0448,41.5591,,1.2144
+Attila Kozo,Ascari,-0.0633,,4.8300,-1.1632
+Attila Kozo,Parabolica,-0.1514,35.4603,-5.1241,2.7018
+Audun Braastad,T1-T2 (Rettifilo),0.1737,16.2483,3.4268,0.5734
+Audun Braastad,Curva Grande,0.0463,,4.7651,-0.2756
+Audun Braastad,Var. della Roggia,0.3469,28.1434,12.4346,-2.5716
+Audun Braastad,Lesmo 1-2,0.1783,27.2616,337.5353,-1.3398
+Audun Braastad,Serraglio,0.0484,85.0636,,2.0753
+Audun Braastad,Ascari,0.3592,,30.0286,-3.7544
+Audun Braastad,Parabolica,0.1491,98.2835,26.2756,0.7503
+Cassius Braga,T1-T2 (Rettifilo),0.2362,28.1988,-0.2911,-1.2076
+Cassius Braga,Curva Grande,0.1063,,5.3128,-0.5595
+Cassius Braga,Var. della Roggia,0.3157,15.2925,8.9713,-0.8171
+Cassius Braga,Lesmo 1-2,0.1583,39.3671,344.6615,1.2042
+Cassius Braga,Serraglio,0.0761,83.6092,,0.3897
+Cassius Braga,Ascari,0.3068,,31.7723,-2.8728
+Cassius Braga,Parabolica,0.1056,115.0464,43.8799,-1.6053
+Christophe Vannobel,T1-T2 (Rettifilo),0.3849,34.7150,0.2573,-2.5493
+Christophe Vannobel,Curva Grande,0.1484,,13.0058,-1.0691
+Christophe Vannobel,Var. della Roggia,0.4472,61.1346,21.8195,-2.0300
+Christophe Vannobel,Lesmo 1-2,0.3980,46.3190,352.9334,-0.1652
+Christophe Vannobel,Serraglio,0.0545,130.7988,,0.7314
+Christophe Vannobel,Ascari,0.1477,,58.0988,-0.7578
+Christophe Vannobel,Parabolica,0.2384,134.4256,95.5706,1.6108
+Cody Meek,T1-T2 (Rettifilo),0.3298,21.6023,3.7605,-0.2148
+Cody Meek,Curva Grande,0.1685,,11.3847,-1.0860
+Cody Meek,Var. della Roggia,0.2876,49.4010,2.1209,-1.0124
+Cody Meek,Lesmo 1-2,0.3633,35.6667,345.7189,-0.7515
+Cody Meek,Serraglio,0.1574,113.5301,,-1.0829
+Cody Meek,Ascari,0.2140,,58.6378,-2.7422
+Cody Meek,Parabolica,0.2184,133.8042,39.0315,-0.0947
+Dennis Blomaard,T1-T2 (Rettifilo),0.2727,28.1895,10.0266,0.6303
+Dennis Blomaard,Curva Grande,0.2087,,8.4768,-1.6275
+Dennis Blomaard,Var. della Roggia,0.0959,50.7465,14.1861,0.6084
+Dennis Blomaard,Lesmo 1-2,0.1828,36.5750,22.3086,0.2322
+Dennis Blomaard,Serraglio,0.0839,88.5027,,1.8573
+Dennis Blomaard,Ascari,0.1220,,27.1602,-1.1406
+Dennis Blomaard,Parabolica,0.1861,89.2310,56.7275,1.7991
+Filip Koniuk,T1-T2 (Rettifilo),0.2516,19.0103,-5.1747,0.4391
+Filip Koniuk,Curva Grande,0.2388,,6.8748,-1.4317
+Filip Koniuk,Var. della Roggia,-0.0365,53.2199,3.2874,0.3293
+Filip Koniuk,Lesmo 1-2,0.0940,26.2614,318.7014,1.3705
+Filip Koniuk,Serraglio,0.1328,69.1053,,0.4512
+Filip Koniuk,Ascari,0.1989,,1.9971,1.2906
+Filip Koniuk,Parabolica,0.4164,78.0450,19.0271,0.2311
+Flatout Sim Racing Rig 1,T1-T2 (Rettifilo),0.1864,25.5760,3.9036,-0.4218
+Flatout Sim Racing Rig 1,Curva Grande,0.1245,,5.2719,-0.8274
+Flatout Sim Racing Rig 1,Var. della Roggia,0.1298,39.6317,37.0339,0.1311
+Flatout Sim Racing Rig 1,Lesmo 1-2,0.5981,30.5008,324.4481,-0.7793
+Flatout Sim Racing Rig 1,Serraglio,0.0508,99.1434,,1.0524
+Flatout Sim Racing Rig 1,Ascari,0.1796,,48.0127,0.0495
+Flatout Sim Racing Rig 1,Parabolica,0.3579,102.2940,68.4418,1.6868
+Flatout Sim Racing Rig 2,T1-T2 (Rettifilo),0.2737,21.5255,4.1104,-0.5645
+Flatout Sim Racing Rig 2,Curva Grande,0.0680,,9.4460,-0.0777
+Flatout Sim Racing Rig 2,Var. della Roggia,0.1149,48.6755,7.8071,-2.8585
+Flatout Sim Racing Rig 2,Lesmo 1-2,0.3487,8.4254,335.9616,-0.4072
+Flatout Sim Racing Rig 2,Serraglio,0.0188,81.3948,,1.9441
+Flatout Sim Racing Rig 2,Ascari,0.0450,,26.9968,-3.6061
+Flatout Sim Racing Rig 2,Parabolica,0.0219,82.4069,44.2907,1.0532
+Flatout Sim Racing Rig 4,T1-T2 (Rettifilo),0.5520,9.3971,7.9631,-2.1336
+Flatout Sim Racing Rig 4,Curva Grande,0.0971,,19.2709,-0.3027
+Flatout Sim Racing Rig 4,Var. della Roggia,0.0795,52.0814,19.5659,1.0147
+Flatout Sim Racing Rig 4,Lesmo 1-2,0.1721,35.5436,355.6041,0.5364
+Flatout Sim Racing Rig 4,Serraglio,0.0706,88.5686,,1.8047
+Flatout Sim Racing Rig 4,Ascari,0.0160,,43.5696,-2.2373
+Flatout Sim Racing Rig 4,Parabolica,0.1517,93.6369,40.7244,-0.7473
+Flatout Sim Racing Rig 7,T1-T2 (Rettifilo),0.2534,32.2728,-1.5605,-2.6088
+Flatout Sim Racing Rig 7,Curva Grande,0.1574,,9.8102,-0.8158
+Flatout Sim Racing Rig 7,Var. della Roggia,0.1393,53.4947,11.7264,-2.1316
+Flatout Sim Racing Rig 7,Lesmo 1-2,0.2700,35.3266,342.3505,-1.6419
+Flatout Sim Racing Rig 7,Serraglio,0.1076,84.8362,,0.0872
+Flatout Sim Racing Rig 7,Ascari,0.1136,,31.9841,-4.3719
+Flatout Sim Racing Rig 7,Parabolica,0.0427,103.1137,35.1272,0.7307
+Gerry Verner,T1-T2 (Rettifilo),0.0905,17.6903,-36.2733,0.5078
+Gerry Verner,Curva Grande,0.1234,,0.0000,-1.2837
+Gerry Verner,Var. della Roggia,0.1222,37.3091,36.6639,-1.5964
+Gerry Verner,Lesmo 1-2,0.1763,23.8334,330.5488,0.3469
+Gerry Verner,Serraglio,0.0062,54.5468,,1.5577
+Gerry Verner,Ascari,0.1039,,18.1292,-2.7742
+Gerry Verner,Parabolica,0.2335,49.7277,17.1253,-0.6151
+Jens Homann,T1-T2 (Rettifilo),0.3844,28.1691,1.2675,0.1401
+Jens Homann,Curva Grande,0.2762,,11.6172,-1.9470
+Jens Homann,Var. della Roggia,0.2113,68.2795,13.0723,-0.9892
+Jens Homann,Lesmo 1-2,0.4187,52.8207,27.2332,-0.5595
+Jens Homann,Serraglio,0.1163,126.0786,,1.1377
+Jens Homann,Ascari,0.0971,,59.8208,0.0562
+Jens Homann,Parabolica,0.3710,131.3991,56.3119,-1.3996
+Joep van Tilburg,T1-T2 (Rettifilo),0.3433,13.5196,3.0614,-2.5688
+Joep van Tilburg,Curva Grande,0.0654,,12.1511,-0.4518
+Joep van Tilburg,Var. della Roggia,0.1893,30.6899,8.1575,-0.4039
+Joep van Tilburg,Lesmo 1-2,0.1896,32.0542,28.2167,0.6308
+Joep van Tilburg,Serraglio,0.0076,78.7008,,3.0243
+Joep van Tilburg,Ascari,0.1922,,31.0426,-3.1579
+Joep van Tilburg,Parabolica,0.2336,84.4863,48.4031,0.2202
+John Knie,T1-T2 (Rettifilo),0.3625,14.7124,3.6922,0.3098
+John Knie,Curva Grande,0.1913,,10.9423,-0.7562
+John Knie,Var. della Roggia,0.1775,53.0325,20.1884,1.0470
+John Knie,Lesmo 1-2,0.2945,39.6562,30.5007,1.5133
+John Knie,Serraglio,0.1276,94.8123,,1.3337
+John Knie,Ascari,0.2789,,50.1015,-0.2909
+John Knie,Parabolica,0.3238,111.9917,62.0753,1.7456
+Kiss Benedek,T1-T2 (Rettifilo),0.4097,25.5196,7.0788,-1.0482
+Kiss Benedek,Curva Grande,0.1633,,12.6056,-0.7220
+Kiss Benedek,Var. della Roggia,0.1521,50.8802,19.5774,0.8997
+Kiss Benedek,Lesmo 1-2,0.2488,40.4350,26.4932,0.7916
+Kiss Benedek,Serraglio,0.1051,95.9691,,1.1048
+Kiss Benedek,Ascari,0.2483,,34.2557,-1.3235
+Kiss Benedek,Parabolica,0.2537,100.2705,43.2824,-0.1710
+Luke Tyler,T1-T2 (Rettifilo),0.2081,26.8473,-4.0170,-1.2090
+Luke Tyler,Curva Grande,0.1229,,5.9604,-0.1713
+Luke Tyler,Var. della Roggia,0.1853,40.5660,2.6926,-1.0102
+Luke Tyler,Lesmo 1-2,0.2393,34.2245,324.3103,0.0758
+Luke Tyler,Serraglio,0.0927,88.3699,,1.2570
+Luke Tyler,Ascari,0.2270,,33.8796,-1.7491
+Luke Tyler,Parabolica,0.1757,108.1177,47.3040,-0.3514
+Maik Schmidt,T1-T2 (Rettifilo),0.3158,30.8661,0.2790,-1.9546
+Maik Schmidt,Curva Grande,0.2151,,7.4646,-1.2517
+Maik Schmidt,Var. della Roggia,0.1439,51.8933,7.7725,-1.5876
+Maik Schmidt,Lesmo 1-2,0.4302,38.6865,341.1608,-1.3554
+Maik Schmidt,Serraglio,0.1716,106.7715,,0.3170
+Maik Schmidt,Ascari,0.0527,,34.9715,-3.1026
+Maik Schmidt,Parabolica,0.4108,112.3851,45.1017,-2.1881
+Marco Hoekstra,T1-T2 (Rettifilo),0.2936,24.2907,7.4697,0.1684
+Marco Hoekstra,Curva Grande,0.1713,,9.6988,-1.1894
+Marco Hoekstra,Var. della Roggia,0.1244,57.3019,13.5267,-0.5304
+Marco Hoekstra,Lesmo 1-2,0.5254,33.2159,354.6784,-1.3453
+Marco Hoekstra,Serraglio,0.0971,123.8813,,1.8586
+Marco Hoekstra,Ascari,0.1951,,57.4987,-2.3127
+Marco Hoekstra,Parabolica,0.2541,135.4990,50.1670,-1.5378
+Patrick Strijdonck,T1-T2 (Rettifilo),0.1893,29.7020,3.0509,0.0999
+Patrick Strijdonck,Curva Grande,0.1789,,6.3506,-1.1810
+Patrick Strijdonck,Var. della Roggia,0.1061,54.6167,6.8714,-1.5072
+Patrick Strijdonck,Lesmo 1-2,0.3851,31.7403,7.2319,-0.1193
+Patrick Strijdonck,Serraglio,0.0728,104.9589,,1.9943
+Patrick Strijdonck,Ascari,0.0950,,35.5175,-1.2317
+Patrick Strijdonck,Parabolica,0.3317,104.4055,31.4243,0.0876
+Ricardo Valero García,T1-T2 (Rettifilo),0.2838,32.3031,2.8672,0.0958
+Ricardo Valero García,Curva Grande,0.1623,,7.5257,-0.9766
+Ricardo Valero García,Var. della Roggia,0.2185,54.6199,15.1689,-0.5521
+Ricardo Valero García,Lesmo 1-2,0.4404,44.5408,342.1878,-0.1128
+Ricardo Valero García,Serraglio,0.1220,115.8502,,0.1620
+Ricardo Valero García,Ascari,0.1383,,49.3019,-2.5252
+Ricardo Valero García,Parabolica,0.4925,128.3949,48.2626,-0.3194
+Sjors Busscher,T1-T2 (Rettifilo),0.3984,16.2789,9.2264,-0.1410
+Sjors Busscher,Curva Grande,0.1799,,13.4529,-1.3204
+Sjors Busscher,Var. della Roggia,0.0311,67.4846,12.4852,0.0647
+Sjors Busscher,Lesmo 1-2,0.2217,42.5116,340.1888,0.5494
+Sjors Busscher,Serraglio,-0.0043,98.0606,,4.2363
+Sjors Busscher,Ascari,0.2604,,37.8202,-3.9674
+Sjors Busscher,Parabolica,0.1698,95.2239,27.3169,1.4039
+Tobias Baaken,T1-T2 (Rettifilo),0.1850,25.8165,-1.2435,0.2014
+Tobias Baaken,Curva Grande,0.1070,,6.2994,-1.4241
+Tobias Baaken,Var. della Roggia,0.1269,38.6718,8.7482,0.1654
+Tobias Baaken,Lesmo 1-2,0.0871,26.4480,324.0734,0.5708
+Tobias Baaken,Serraglio,-0.0072,61.3058,,1.4128
+Tobias Baaken,Ascari,0.1469,,25.5946,-1.0492
+Tobias Baaken,Parabolica,0.2402,63.0898,27.0022,-2.3836
+Ventsislav Raychinov,T1-T2 (Rettifilo),0.0657,17.7302,-5.2255,-2.5658
+Ventsislav Raychinov,Curva Grande,-0.0026,,0.0000,-0.4731
+Ventsislav Raychinov,Var. della Roggia,0.0868,7.7772,-0.4215,-0.5769
+Ventsislav Raychinov,Lesmo 1-2,0.0814,5.6536,328.3351,0.7560
+Ventsislav Raychinov,Serraglio,-0.0589,36.5658,,6.3594
+Ventsislav Raychinov,Ascari,0.1866,,16.0023,-1.1540
+Ventsislav Raychinov,Parabolica,0.1589,42.1389,6.3288,-0.3127
+samuel albert,T1-T2 (Rettifilo),0.1954,9.4562,-0.2983,-0.5646
+samuel albert,Curva Grande,0.1511,,5.8422,-0.8332
+samuel albert,Var. della Roggia,0.0063,54.7949,4.7789,-0.2859
+samuel albert,Lesmo 1-2,0.3376,26.8964,338.4272,-0.5720
+samuel albert,Serraglio,0.0497,86.2871,,3.3568
+samuel albert,Ascari,0.2019,,22.9275,1.5963
+samuel albert,Parabolica,0.1449,92.9843,32.3317,1.1762
